@@ -1,0 +1,16 @@
+{
+  "name": "mongoose_model",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "description": "",
+  "dependencies": {
+    "mongoose": "^8.15.1"
+  }
+}
